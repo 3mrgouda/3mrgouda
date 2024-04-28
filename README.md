@@ -7,7 +7,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3mrgouda&label=Profile%20views&color=0e75b6&style=flat" alt="3mrgouda" /> </p>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me: 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **tailwindCss and ReactJS.**
 
