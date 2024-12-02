@@ -4,9 +4,9 @@
   Welcome to Amr Gouda's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 	
-<div align="center">	
+<p align="center">	
 	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-end+web+developer;Always+learning+new+things.">
-</div>
+</p>
 
  
 - <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> I'm a Software Engineer specialized in front-end development.
