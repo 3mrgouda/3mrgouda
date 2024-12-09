@@ -23,18 +23,11 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3mrgouda&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
