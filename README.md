@@ -23,9 +23,11 @@
 
 
 ### 🛠 &nbsp;Tech Stack
+<!--
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+-->
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
 
