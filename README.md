@@ -11,7 +11,7 @@
 
 
 - <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"></picture> I'm a Software Engineer specialized in front-end development.
-- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, TypeScript, ReactJS, and TailwindCSS, or anything related to front-end development.
 
 
